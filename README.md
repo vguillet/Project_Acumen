@@ -17,6 +17,8 @@ This would enable students to acquire insight into their skills and difficulties
 ## Software structure
 
 The software is made up of 4 main modules, the GUI, the Database, the exam and the statistics generation modules.
+A diagram overview of the generation module can be seen below:
+https://www.lucidchart.com/documents/view/d42ddb66-d62e-4471-a5d6-5df4f600361a
 
 ## Running the software
 
