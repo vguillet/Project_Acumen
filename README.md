@@ -32,11 +32,11 @@ To run the program use GUI_Integration.py and follow the instructions in the hel
 >>>
 Acumen is made by 4 Computer Science minor students:
 
-Kevin Bislip 4536908, Project Manager, scrum master, product owner
+Kevin Bislip 4536908, Project Manager, scrum master
 
 Xavier Goby 4488822, Database with SQLite developer
 
-Victor Guillet 4488636, GUI with TkInter developer
+Victor Guillet 4488636, Exam-gen and statistics generation developer
 
-Luke de Waal 4560000, Exam-gen and statistics generation developer
+Luke de Waal 4560000, GUI with TkInter developer
 >>>
