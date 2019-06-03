@@ -1,0 +1,3 @@
+# Questiondetails split: newlines(per subject), commas(per topic), @(per question) and then $(per question detail).
+# Answer(to the question)$Date created$boolean(True correct,False incorrect)$date answered$boolean$dateans, etc
+

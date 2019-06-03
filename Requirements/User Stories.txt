@@ -1,0 +1,7 @@
+I am a high school student
+I want an easy to use program to input exam questions into
+So that I can create an exam from the questions I have
+
+I am a university student
+I want a program that can generate exams based on what I am not good at
+So that I can improve myself

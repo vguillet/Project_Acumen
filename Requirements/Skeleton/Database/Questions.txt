@@ -1,0 +1,2 @@
+# Questions text is split by newlines(per subject), commas(per topic) and then @(per question in a topic in a subject).
+The volume of the parallelepiped determined by the vectors a = <2,1,1>, b = <1,1,2> and c = <1,1,2> equals
